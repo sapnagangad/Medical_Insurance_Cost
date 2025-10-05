@@ -1,8 +1,8 @@
-# Medical_Insurance_Cost
-Exploratory Data Analysis of Medical Insurance Costs to uncover patterns and insights related to age, BMI, smoking habits, sex, and region. Includes detailed visualizations, statistical summaries, and feature-based analysis.
 # 📊 Medical Insurance Cost Data Analysis
 
-![Medical Insurance Data Analysis](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset)
+Exploratory Data Analysis of Medical Insurance Costs to uncover patterns and insights related to age, BMI, smoking habits, sex, and region. Includes detailed visualizations, statistical summaries, and feature-based analysis.
+
+![Medical Insurance Data Analysis](https://demigos.com/media/blog/upload/2021/07/13/39.jpeg)
 
 ## 🧠 Project Overview
 
