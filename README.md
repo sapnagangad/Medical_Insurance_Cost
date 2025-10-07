@@ -2,6 +2,9 @@
 
 Exploratory Data Analysis of Medical Insurance Costs to uncover patterns and insights related to age, BMI, smoking habits, sex, and region. Includes detailed visualizations, statistical summaries, and feature-based analysis.
 
+[View my Project on Kaggle](https://www.kaggle.com/code/sapnagangad/medical-insurance-cost-da)
+
+
 ![Medical Insurance Data Analysis](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ssbGU5VIxtVB6NrF)
 
 ## 🧠 Project Overview
