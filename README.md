@@ -37,4 +37,65 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 - **BMI Influence**: Higher BMI categories are associated with increased medical charges.
 - **Regional Variations**: Certain regions exhibit higher average medical charges.
 
+# 🩺 Medical Insurance Cost Data Analysis
+
+This project explores various factors affecting **medical insurance costs** using Python (Pandas, NumPy, Matplotlib, Seaborn).  
+Below are the visualizations generated during the analysis.
+
+---
+
+## 📊 Visualizations
+
+### 1. Distribution of Medical Charges
+![Distribution of Medical Charges](ADD_LINK_HERE)
+
+---
+
+### 2. Age vs Insurance Charges
+![Age vs Insurance Charges](ADD_LINK_HERE)
+
+---
+
+### 3. Average Charges by Age Group
+![Average Charges by Age Group](ADD_LINK_HERE)
+
+---
+
+### 3. Average Charges by BMI Category and Smoker
+![Average Charges by BMI Category and Smoker](ADD_LINK_HERE)
+
+---
+
+### 5. Average Charges by Region
+![Average Charges by Region](ADD_LINK_HERE)
+
+---
+
+### 5. BMI vs Charges (Smoker Highlighted)
+![BMI vs Charges (Smoker Highlighted)](ADD_LINK_HERE)
+
+---
+
+### 6. Correlation Heatmap
+![Correlation Heatmap](ADD_LINK_HERE)
+
+
+---
+
+### 9. Insurance Charges by BMI Category
+![Insurance Charges by BMI Category](ADD_LINK_HERE)
+
+---
+
+### 10. Insurance Charges by Smoker Status
+![Insurance Charges by Smoker Status](ADD_LINK_HERE)
+
+---
+
+### 11. Medical Insurance Charges by Smoker & Gender
+![Medical Insurance Charges by Smoker & Gender](ADD_LINK_HERE)
+
+
+
+
 
