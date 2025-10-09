@@ -1,4 +1,4 @@
-# 📊 Medical Insurance Cost Data Analysis
+# 🩺 Medical Insurance Cost Data Analysis
 
 Exploratory Data Analysis of Medical Insurance Costs to uncover patterns and insights related to age, BMI, smoking habits, sex, and region. Includes detailed visualizations, statistical summaries, and feature-based analysis.
 
@@ -36,13 +36,6 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 - **Age Factor**: Older individuals generally have higher medical charges.
 - **BMI Influence**: Higher BMI categories are associated with increased medical charges.
 - **Regional Variations**: Certain regions exhibit higher average medical charges.
-
-# 🩺 Medical Insurance Cost Data Analysis
-
-This project explores various factors affecting **medical insurance costs** using Python (Pandas, NumPy, Matplotlib, Seaborn).  
-Below are the visualizations generated during the analysis.
-
----
 
 ## 📊 Visualizations
 
