@@ -50,12 +50,12 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 ---
 
 ### 3. Average Charges by BMI Category and Smoker
-![Average Charges by BMI Category and Smoker](ADD_LINK_HERE)
+![Average Charges by BMI Category and Smoker](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Average_charges%20by%20BMI_category%20and%20Smoker.png)
 
 ---
 
-### 5. Average Charges by Region
-![Average Charges by Region](ADD_LINK_HERE)
+### 4. Average Charges by Region
+![Average Charges by Region](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Average_Charges%20by%20Region.png)
 
 ---
 
