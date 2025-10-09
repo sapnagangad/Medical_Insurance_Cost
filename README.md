@@ -69,13 +69,13 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 
 ---
 
-### 10. Insurance Charges by Smoker Status
+### 7. Insurance Charges by Smoker Status
 ![Insurance Charges by Smoker Status](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Insurance_charges%20by%20smoker%20status.png)
 
 ---
 
-### 11. Medical Insurance Charges by Smoker & Gender
-![Medical Insurance Charges by Smoker & Gender](ADD_LINK_HERE)
+### 8. Medical Insurance Charges by Smoker & Gender
+![Medical Insurance Charges by Smoker & Gender](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Medical_insurance_charges%20by%20smoker%20%26%20gender.png)
 
 
 
