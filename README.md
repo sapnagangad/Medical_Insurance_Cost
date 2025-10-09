@@ -60,23 +60,17 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 ---
 
 ### 5. BMI vs Charges (Smoker Highlighted)
-![BMI vs Charges (Smoker Highlighted)](ADD_LINK_HERE)
+![BMI vs Charges (Smoker Highlighted)](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/BMI%20vs%20Charges%20(Smoker%20Highlighted).png)
 
 ---
 
 ### 6. Correlation Heatmap
-![Correlation Heatmap](ADD_LINK_HERE)
-
-
----
-
-### 9. Insurance Charges by BMI Category
-![Insurance Charges by BMI Category](ADD_LINK_HERE)
+![Correlation Heatmap](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Correlation_heatmap.png)
 
 ---
 
 ### 10. Insurance Charges by Smoker Status
-![Insurance Charges by Smoker Status](ADD_LINK_HERE)
+![Insurance Charges by Smoker Status](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Insurance_charges%20by%20smoker%20status.png)
 
 ---
 
