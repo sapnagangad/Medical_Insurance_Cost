@@ -40,17 +40,12 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 ## 📊 Visualizations
 
 ### 1. Distribution of Medical Charges
-![Distribution of Medical Charges](ADD_LINK_HERE)
+![Distribution of Medical Charges](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Distribution_of_Charges.png)
 
 ---
 
-### 2. Age vs Insurance Charges
-![Age vs Insurance Charges](ADD_LINK_HERE)
-
----
-
-### 3. Average Charges by Age Group
-![Average Charges by Age Group](ADD_LINK_HERE)
+### 2. Average Charges by Age Group
+![Average Charges by Age Group](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Average%20Charges%20by%20Age_Group.png)
 
 ---
 
