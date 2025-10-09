@@ -64,8 +64,8 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 
 ---
 
-### 6. Correlation Heatmap
-![Correlation Heatmap](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Correlation_heatmap.png)
+### 6. Medical Insurance Charges by Smoker & Gender
+![Medical Insurance Charges by Smoker & Gender](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Medical_insurance_charges%20by%20smoker%20%26%20gender.png)
 
 ---
 
@@ -74,8 +74,9 @@ This project delves into the **Medical Insurance Cost Dataset**, aiming to explo
 
 ---
 
-### 8. Medical Insurance Charges by Smoker & Gender
-![Medical Insurance Charges by Smoker & Gender](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Medical_insurance_charges%20by%20smoker%20%26%20gender.png)
+### 8. Correlation Heatmap
+![Correlation Heatmap](https://github.com/sapnagangad/Medical_Insurance_Cost/blob/main/Graph%20Plots/Correlation_heatmap.png)
+
 
 
 
